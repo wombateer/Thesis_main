@@ -28,4 +28,4 @@ Date Created: 2025-01
 
 Copyright (c) Lisa Zumbrunn, 2025
 
-The code has been developed with the help of ChatGPT (version GPT-4) While ChatGPT provided support in writing, all the methodological setup, modifications, and final code were independently completed by the author.
+The code has been developed with the help of ChatGPT (version GPT-4). While ChatGPT provided support in writing, all the methodological setup, modifications, and final code were independently completed by the author.
